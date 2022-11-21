@@ -32,7 +32,7 @@ export default function Website() {
                     <a href='mailto:chrissnakhiev@gmail.com'>
                         <img src='envelope.svg' alt='Email' width="50px" height="50px" />
                     </a>
-                    <img src='menu-burger.svg' alt='Menu' width="50px" height="50px" />
+                    {/* <img src='menu-burger.svg' alt='Menu' width="50px" height="50px" /> */}
                 </div>
             </div>
         </Router>
