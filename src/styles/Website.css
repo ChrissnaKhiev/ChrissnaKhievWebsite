@@ -19,11 +19,12 @@
 }
 
 .contentContainer {
+    border: solid #DCE4F2 2px;
+    background-color: #c6cddac5;
     box-sizing: border-box;
-    background-color: #DCE4F2;
     border-radius: 20px;
     padding: 15px;
-    width: 60vw;
+    width: 40vw;
     box-shadow: 8px 8px 8px #00000067;
 }
 

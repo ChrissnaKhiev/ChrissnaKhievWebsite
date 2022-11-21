@@ -7,7 +7,7 @@
     -ms-overflow-style: none;
     scrollbar-width: none;
     width: 50vw;
-    height: 60vh;
+    height: 75vh;
 }
 
 .projectContainer::-webkit-scrollbar {

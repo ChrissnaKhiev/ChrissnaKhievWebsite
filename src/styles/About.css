@@ -4,6 +4,10 @@
     align-items: center;
 }
 
+.aboutContainer img {
+    border-radius: 10px;
+}
+
 .aboutText {
     display: flex;
     flex-direction: column;
