@@ -1,0 +1,28 @@
+.homeContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    color: #DCE4F2;
+    flex-direction: column;
+}
+
+.homeContainer h1 {
+    font-size: 8em;
+    margin: 0;
+}
+
+h2 {
+    position: relative;
+    font-weight: 900;
+    font-size: 2em;
+}
+
+h2 .letters {
+    position: absolute;
+    margin: auto;
+    left: 0;
+    top: 0.3em;
+    right: 0;
+    opacity: 1; 
+}

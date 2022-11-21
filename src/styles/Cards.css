@@ -1,0 +1,44 @@
+.projectContainer {
+    border: solid #DCE4F2 2px;
+    border-radius: 15px;
+    background-color: #c6cddac5;
+    box-shadow: 8px 8px 8px #00000067;
+    overflow: auto;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    width: 50vw;
+    height: 60vh;
+}
+
+.projectContainer::-webkit-scrollbar {
+    display: none;
+}
+
+.projectCard {
+    box-sizing: border-box;
+    background-color: #DCE4F2;
+    border-radius: 20px;
+    padding: 15px;
+    box-shadow: 8px 8px 8px #00000067;
+    margin: 20px;
+}
+
+.projectTitle {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.centerContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.imageCard {
+    border-radius: 10px;
+    width: 200px;
+    height: 100px;
+    margin: 5px;
+}
