@@ -7,7 +7,7 @@ function About() {
       <div className='contentContainer'>
         <div className='aboutContainer'>
           <div>
-            <img src='self.png' alt='Chrissna Khiev' width="350px" height="350px" />
+            <img src='./self.png' alt='Chrissna Khiev' width="350px" height="350px" />
           </div>
           <div className='aboutText'>
             <h3>About</h3>
