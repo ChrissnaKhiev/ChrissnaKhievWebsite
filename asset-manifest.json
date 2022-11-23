@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chrissna-khiev-website/static/css/main.2dffb8a0.css",
+    "main.js": "/chrissna-khiev-website/static/js/main.62da7681.js",
+    "index.html": "/chrissna-khiev-website/index.html",
+    "main.2dffb8a0.css.map": "/chrissna-khiev-website/static/css/main.2dffb8a0.css.map",
+    "main.62da7681.js.map": "/chrissna-khiev-website/static/js/main.62da7681.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dffb8a0.css",
+    "static/js/main.62da7681.js"
+  ]
+}
