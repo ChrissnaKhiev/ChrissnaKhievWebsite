@@ -26,9 +26,9 @@ function Cards() {
         </div>
         <div>
           <div className='centerContent'>
-            <img className='imageCard' src='https://media.discordapp.net/attachments/439072572731031553/1044036557755138118/image.png?width=908&height=465' />
-            <img className='imageCard' src='https://media.discordapp.net/attachments/439072572731031553/1044036568031178772/image.png?width=908&height=464' />
-            <img className='imageCard' src='https://media.discordapp.net/attachments/439072572731031553/1044036694741102642/image.png?width=908&height=464' />
+            <img className='imageCard' src='https://media.discordapp.net/attachments/439072572731031553/1044793809319501904/image.png?width=960&height=491' />
+            <img className='imageCard' src='https://media.discordapp.net/attachments/439072572731031553/1044793940622184488/image.png?width=960&height=490' />
+            <img className='imageCard' src='https://media.discordapp.net/attachments/439072572731031553/1044793976433164288/image.png?width=960&height=491' />
           </div>
           <p>This is where you are! This is an application where I showcase my projects, resume, and artwork! This was created with react.</p>
         </div>
