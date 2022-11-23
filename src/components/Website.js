@@ -16,7 +16,7 @@ export default function Website() {
                 </div>
                 <div className='bodyContainer'>
                     <Routes>
-                        <Route path="/" element={<Home />} />
+                        <Route path="/chrissna-khiev-website" element={<Home />} />
                         <Route path="/about" element={<About />} />
                         <Route path="/projects" element={<Projects />} />
                         <Route path="/resume" element={<Resume />} />
