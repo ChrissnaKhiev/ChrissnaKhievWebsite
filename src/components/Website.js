@@ -6,6 +6,9 @@ import About from './About';
 import Projects from './Projects';
 import Resume from './Resume';
 import Navbar from './Navbar';
+import github from '../images/github.svg';
+import linkedin from '../images/linkedin.svg';
+import envelope from '../images/envelope.svg';
 
 export default function Website() {
     return (
@@ -24,13 +27,13 @@ export default function Website() {
                 </div>
                 <div className='footerContainer'>
                     <a href='https://github.com/ChrissnaKhiev'>
-                        <img src='github.svg' alt='GitHub' width="50px" height="50px" />
+                        <img src={github} alt='GitHub' width="50px" height="50px" />
                     </a>
                     <a href='https://www.linkedin.com/in/chrissnakhiev/'>
-                        <img src='linkedin.svg' alt='LinkedIn' width="50px" height="50px" />
+                        <img src={linkedin} alt='LinkedIn' width="50px" height="50px" />
                     </a>
                     <a href='mailto:chrissnakhiev@gmail.com'>
-                        <img src='envelope.svg' alt='Email' width="50px" height="50px" />
+                        <img src={envelope} alt='Email' width="50px" height="50px" />
                     </a>
                 </div>
             </div>
