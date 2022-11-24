@@ -1,13 +1,17 @@
 {
   "files": {
     "main.css": "/chrissna-khiev-website/static/css/main.2dffb8a0.css",
-    "main.js": "/chrissna-khiev-website/static/js/main.62da7681.js",
+    "main.js": "/chrissna-khiev-website/static/js/main.880bdfd5.js",
+    "static/media/self.png": "/chrissna-khiev-website/static/media/self.f8b3d7df6edaa0642671.png",
+    "static/media/github.svg": "/chrissna-khiev-website/static/media/github.3b21c250a99986431958daaa9246a45a.svg",
     "index.html": "/chrissna-khiev-website/index.html",
+    "static/media/linkedin.svg": "/chrissna-khiev-website/static/media/linkedin.98956d298e14a6384fdb39c42269f2f2.svg",
+    "static/media/envelope.svg": "/chrissna-khiev-website/static/media/envelope.11b1101fde824341b4c383791fd84a15.svg",
     "main.2dffb8a0.css.map": "/chrissna-khiev-website/static/css/main.2dffb8a0.css.map",
-    "main.62da7681.js.map": "/chrissna-khiev-website/static/js/main.62da7681.js.map"
+    "main.880bdfd5.js.map": "/chrissna-khiev-website/static/js/main.880bdfd5.js.map"
   },
   "entrypoints": [
     "static/css/main.2dffb8a0.css",
-    "static/js/main.62da7681.js"
+    "static/js/main.880bdfd5.js"
   ]
 }
